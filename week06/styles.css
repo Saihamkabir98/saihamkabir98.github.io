@@ -175,4 +175,8 @@ footer {
         border-radius: 2px;
     }
  
+    #primary_nav li.top {
+    display: none;
+}
+ 
 }
